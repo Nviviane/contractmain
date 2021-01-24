@@ -16,3 +16,4 @@ echo "evaluating the project"
 echo "sending to submain"
 
 echo "pushing to submain"
+echo "new file"
